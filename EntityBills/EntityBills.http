@@ -1,0 +1,6 @@
+@EntityBills_HostAddress = http://localhost:5006
+
+GET {{EntityBills_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
